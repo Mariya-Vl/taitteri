@@ -35,3 +35,38 @@ The project was completed in a team of 4 students, with responsibilities divided
 - Preparing the project presentation (PowerPoint)
 
 ## Database design
+![Database structure](screenshots/db_structure.jpg)
+
+## Running the Project Locally
+This project runs in a local environment using PHP and MySQL.
+
+#### Steps to run the project:
+- Install a local server environment (for example, XAMPP)
+- Import one of the provided `.sql` files into the database
+- Configure the database connection in `connection.php`
+- Open the project in a browser using `localhost`
+
+The project was developed for local use and is not deployed online.
+
+## Screenshots
+### Login page
+![Login page](screenshots/login_page.jpg)
+
+### Profile page
+![Profile page](screenshots/profile_page.jpg)
+
+### Create post page
+![create post page](screenshots/create_post_page.jpg)
+
+### Friends list page
+![Friends List page](screenshots/friends_list_page.jpg)
+
+### Posts page
+![Posts page](screenshots/posts_page.jpg)
+
+### Hashtags page
+![Hashtags page](screenshots/hashtags_page.jpg)
+
+## Project Status
+This project was created for educational purposes as part of IT studies.
+It demonstrates basic full-stack development and database design skills.
